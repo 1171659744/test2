@@ -1,0 +1,9 @@
+diff a/test.java b/test.java	(rejected hunks)
+@@ -3,6 +3,7 @@
+ class HelloWorld 
+ {
+    
++ /**
+     * ����һ�� main ����
+     */
+   
